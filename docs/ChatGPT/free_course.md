@@ -20,7 +20,8 @@ DeepLearning.ai 创始人吴恩达与 OpenAI 开发者 Iza Fulford 联手推出�
 
 ## 在线观看
 
-> 感谢Up主 ([程序猿小王Monkey-King](https://space.bilibili.com/33559436)) 的贡献，原视频链接：[点这里](https://www.bilibili.com/video/BV1Po4y1t7gX/?spm_id_from=333.337.search-card.all.click&vd_source=5e3bf0ae2e1c486325021e5c76af317d)
+> 感谢Up主 ([程序猿小王Monkey-King](https://space.bilibili.com/33559436)) 的贡献  
+> 以下视频仅限Web端播放，移动端可以点击原视频链接：[点这里](https://www.bilibili.com/video/BV1Po4y1t7gX/?spm_id_from=333.337.search-card.all.click&vd_source=5e3bf0ae2e1c486325021e5c76af317d)
 
 <iframe
 src="https://www.bilibili.com/video/BV1Po4y1t7gX?t=6.5"
