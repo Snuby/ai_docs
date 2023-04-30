@@ -1,7 +1,12 @@
-# 最全的免费AI文档站
+# 免费AI文档站
 
 这是由上海无线黑石信息技术有限公司开发的一个AI教程类网站，里面的资料基本免费，够绝大多数同学取用。请记住我们的网址：  
-https://ibstech.cn/docs/
+https://ibstech.cn/docs/  
+
+> 移动端用户，请在屏幕左侧下方呼唤出菜单  
+> <img src="../res/sidebar_1.png" alt="image_description" width="360px" height="auto">
+> <img src="../res/sidebar_2.png" alt="image_description" width="360px" height="auto">
+
 
 <br/>
 
