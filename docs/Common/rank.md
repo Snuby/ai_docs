@@ -7,3 +7,7 @@
 
 ## 财富
 1. [福布斯中国榜单](https://www.forbeschina.com/lists)
+
+## 自媒体
+1. [新榜](https://www.newrank.cn/ranklist/weixin)，内容齐全，涵盖公众号、抖音、小红书等几大热门榜单
+2. [新媒体工具榜](https://nav.newrank.cn/?source=8112)，工具门类丰富
