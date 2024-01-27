@@ -11,7 +11,7 @@
 > 参考资料：https://cloud.tencent.com/developer/article/
 > 
 > 配置hosts：
-``` shell
-199.232.69.194 github.global.ssl.fastly.net
-140.82.114.4 github.com
-```
+> ``` shell
+> 199.232.69.194 github.global.ssl.fastly.net
+> 140.82.114.4 github.com
+> ```
