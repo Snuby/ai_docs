@@ -5,6 +5,18 @@
 1. [Github官网](https://github.com)
 2. [Github趋势榜](https://github.com/trending)
 
+
+## 一定要收藏的项目
+
+1. [awesome](https://github.com/sindresorhus/awesome), 一个项目，收藏了大量主题文章/知识，涵盖内容：
+> Contents
+> Platforms
+> Programming Languages
+> Front-End Development
+> Back-End Development
+> Computer Science
+> 等
+
 ## 附录
 
 1. Github无法clone？

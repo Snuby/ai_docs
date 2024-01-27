@@ -12,3 +12,4 @@
 * [Midjourney教程大全2](MidJourney/)
 * **日常资料**
   * [1. Github常用资料](Common/github.md)
+  * [2. 有意思的榜单](Common/rank.md)
