@@ -1,6 +1,6 @@
 # Github的日常资料
 
-## 链接
+## Github相关链接
 
 1. [Github官网](https://github.com)
 2. [Github趋势榜](https://github.com/trending)
@@ -17,7 +17,7 @@
 > Computer Science
 > 等
 
-## 附录
+## 附录FAQ
 
 1. Github无法clone？
 > 参考资料：https://cloud.tencent.com/developer/article/
